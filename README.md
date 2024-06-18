@@ -1,4 +1,4 @@
-친구 기말과제 심심해서 만들어 봄
+![Animation](https://github.com/dori-04/Traffic-Light/assets/161986140/086d356a-1105-4f03-a89a-beb15f1bccd7)
 
 - **언어**: 프로세싱
 
